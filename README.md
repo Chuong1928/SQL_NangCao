@@ -1,11 +1,12 @@
 Easy With SQL
--<inclide>
-    + Triger
--<include>
-    +Function
--<include>
-    +Procedure
--<include>
-    +Function
--<include>
-    +SQL Query
+
+    Triger
+   
+    Function
+
+    Procedure
+
+    Function
+
+    SQL Query
+
