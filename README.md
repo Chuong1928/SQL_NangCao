@@ -1,11 +1,11 @@
 Easy With SQL
-<inclide>
+-<inclide>
     + Triger
-<include>
+-<include>
     +Function
-<include>
+-<include>
     +Procedure
-<include>
+-<include>
     +Function
-<include>
+-<include>
     +SQL Query
