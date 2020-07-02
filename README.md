@@ -1,7 +1,11 @@
 Easy With SQL
--<inclide>
-  + Triger
-  +Function
-  +Procedure
-  +Function
-  +SQL Query
+<inclide>
+    + Triger
+<include>
+    +Function
+<include>
+    +Procedure
+<include>
+    +Function
+<include>
+    +SQL Query
